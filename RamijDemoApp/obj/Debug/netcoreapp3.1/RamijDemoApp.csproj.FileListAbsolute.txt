@@ -1,0 +1,13 @@
+C:\Users\intel\Desktop\RamijDemoApp\RamijDemoApp\bin\Debug\netcoreapp3.1\RamijDemoApp.exe
+C:\Users\intel\Desktop\RamijDemoApp\RamijDemoApp\bin\Debug\netcoreapp3.1\RamijDemoApp.deps.json
+C:\Users\intel\Desktop\RamijDemoApp\RamijDemoApp\bin\Debug\netcoreapp3.1\RamijDemoApp.runtimeconfig.json
+C:\Users\intel\Desktop\RamijDemoApp\RamijDemoApp\bin\Debug\netcoreapp3.1\RamijDemoApp.runtimeconfig.dev.json
+C:\Users\intel\Desktop\RamijDemoApp\RamijDemoApp\bin\Debug\netcoreapp3.1\RamijDemoApp.dll
+C:\Users\intel\Desktop\RamijDemoApp\RamijDemoApp\bin\Debug\netcoreapp3.1\RamijDemoApp.pdb
+C:\Users\intel\Desktop\RamijDemoApp\RamijDemoApp\obj\Debug\netcoreapp3.1\RamijDemoApp.csprojAssemblyReference.cache
+C:\Users\intel\Desktop\RamijDemoApp\RamijDemoApp\obj\Debug\netcoreapp3.1\RamijDemoApp.AssemblyInfoInputs.cache
+C:\Users\intel\Desktop\RamijDemoApp\RamijDemoApp\obj\Debug\netcoreapp3.1\RamijDemoApp.AssemblyInfo.cs
+C:\Users\intel\Desktop\RamijDemoApp\RamijDemoApp\obj\Debug\netcoreapp3.1\RamijDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\intel\Desktop\RamijDemoApp\RamijDemoApp\obj\Debug\netcoreapp3.1\RamijDemoApp.dll
+C:\Users\intel\Desktop\RamijDemoApp\RamijDemoApp\obj\Debug\netcoreapp3.1\RamijDemoApp.pdb
+C:\Users\intel\Desktop\RamijDemoApp\RamijDemoApp\obj\Debug\netcoreapp3.1\RamijDemoApp.genruntimeconfig.cache
